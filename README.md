@@ -1,5 +1,5 @@
 # Programming_course
-This is a resiptory with two functions: remind_me() and cheat().
+This is a repository with two functions: remind_me() and cheat().
 
 ## Usage
 ### remind_me()
@@ -12,5 +12,5 @@ cheat() is a function which returns the answers of 4 programming excersizes from
 
 cheat() takes in one argument which specifies the excerize number. 
 
-It prints the answers of questions 1, 10, 15, 17. 
+It prints the answers of excersize 1, 10, 15, 17. 
 
